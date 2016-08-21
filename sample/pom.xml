@@ -24,5 +24,6 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>sample..war</finalName>
   </build>
 </project>
